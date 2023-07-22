@@ -19,4 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakinabanu&show_icons=true&locale=en&layout=compact" alt="sakinabanu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakinabanu&" alt="sakinabanu" /></p>
-
